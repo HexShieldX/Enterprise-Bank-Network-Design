@@ -1,7 +1,9 @@
                      **  Bank Network Design with Fully Functional ATM System**
 
 Project: Bank Network Design using Cisco Packet Tracer
+
 Author: Arshman Abbas
+
 Tools: Cisco Packet Tracer 8.x
 
 **Overview**
